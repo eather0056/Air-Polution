@@ -1,0 +1,1 @@
+thingSpeakWrite(2020346,[5.2,29.3,5.6,24,23.81,90.41,56],'WriteKey','V34J3JF5HX724X6M')
